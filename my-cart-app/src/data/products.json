@@ -1,0 +1,26 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "title": "iPhone 9",
+            "description": "An apple mobile which is nothing like apple",
+            "price": 549,
+            "quantity": 1,
+            "thumbnail": "https://cdn.pixabay.com/photo/2017/04/03/15/52/mobile-phone-2198770_640.png",
+            "category": "smartphones",
+            "stock": 94,
+            "discountPercentage": 12.96
+        },
+        {
+            "id": 2,
+            "title": "iPhone X",
+            "description": "SIM-Free, Model A19211 6.5-inch Super Retina HD display with OLED technology A12 Bionic chip with ...",
+            "price": 899,
+            "quantity": 1,
+            "thumbnail": "https://cdn.pixabay.com/photo/2016/12/09/11/33/smartphone-1894723_640.jpg",
+            "category": "smartphones",
+            "stock": 34,
+            "discountPercentage": 17.94
+        }
+    ]
+}
